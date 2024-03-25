@@ -1,3 +1,7 @@
 Merhaba arkadaslar, iyi calismalar diliyorum.
-tst
-Ben kural tanımam
+
+
+Ben kurallar üzere kodu degistirdim.
+
+hello
+
